@@ -345,7 +345,7 @@ game:GetService("ReplicatedStorage").Remotes.ChangeCharacterBody:InvokeServer(un
 
     StarterGui:SetCore("SendNotification", {
         Title = "Guest666",
-        Text = "By: Rick/Troll",
+        Text = "By: Dark",
         Duration = 8,
         Button1 = "OK"
     })
